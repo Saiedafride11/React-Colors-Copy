@@ -1,0 +1,149 @@
+[
+    {
+        "id": "01",
+        "color": "webkitBackgroundClip : 'text',  webkitTextFillColor : 'transparent',  backgroundImage : 'linear-gradient(143.3deg, rgba(216, 27, 96, 1) 33.1% , rgba(237, 107, 154, 1) 74.9% )",
+        "textColor": "linear-gradient(143.3deg, rgba(216, 27, 96, 1) 33.1% , rgba(237, 107, 154, 1) 74.9% )",
+        "borderColor": "rgba(216, 27, 96, 1)",
+        "copyColorCode": "#d81b60, #ed6b9a "
+    },
+    {
+        "id": "02",
+        "color": "webkitBackgroundClip : 'text',  webkitTextFillColor : 'transparent',  backgroundImage : 'radial-gradient( circle 1294px at -15.5% 23.8%, rgba(255, 206, 149, 1) 0%, rgba(247, 92, 92, 1) 44.9%, rgba(108, 0, 96, 0.97) 93.8% )'",
+        "textColor": "radial-gradient( circle 1294px at -15.5% 23.8%, rgba(255, 206, 149, 1) 0%, rgba(247, 92, 92, 1) 44.9%, rgba(108, 0, 96, 0.97) 93.8% )",
+        "borderColor": "rgba(255, 206, 149, 1)",
+        "copyColorCode": "#ffce95, #f75c5c, #6c0060"
+    },
+    {
+        "id": "03",
+        "color": "webkitBackgroundClip : 'text',  webkitTextFillColor : 'transparent',  backgroundImage : 'radial-gradient(circle farthest-corner at 10% 20%, rgba(255, 37, 174, 1) 0%, rgba(241, 147, 55, 1) 53.4%, rgba(250, 237, 56, 1) 99.5%)'",
+        "textColor": "radial-gradient(circle farthest-corner at 10% 20%, rgba(255, 37, 174, 1) 0%, rgba(241, 147, 55, 1) 53.4%, rgba(250, 237, 56, 1) 99.5%)",
+        "borderColor": "rgba(255, 37, 174, 1)",
+        "copyColorCode": "#ff25ae, #f19337, #faed38"
+    },
+    {
+        "id": "04",
+        "color": "webkitBackgroundClip : 'text',  webkitTextFillColor : 'transparent',  backgroundImage : 'linear-gradient(292.9deg, rgba(254, 105, 241, 1) 28.8%, rgba(182, 44, 248, 1) 70.4%)'",
+        "textColor": "linear-gradient(292.9deg, rgba(254, 105, 241, 1) 28.8%, rgba(182, 44, 248, 1) 70.4%)",
+        "borderColor": "rgba(254, 105, 241, 1)",
+        "copyColorCode": "#fe69f1, #b62cf8"
+    },
+    {
+        "id": "05",
+        "color": "webkitBackgroundClip : 'text',  webkitTextFillColor : 'transparent',  backgroundImage : 'linear-gradient(109.5deg, rgba(76, 221, 242, 1) 11.2%, rgba(92, 121, 255, 1) 91.1%)'",
+        "textColor": "linear-gradient(109.5deg, rgba(76, 221, 242, 1) 11.2%, rgba(92, 121, 255, 1) 91.1%)",
+        "borderColor": "rgba(76, 221, 242, 1)",
+        "copyColorCode": "#4cddf2, #5c79ff"
+    },
+    {
+        "id": "06",
+        "color": "webkitBackgroundClip : 'text',  webkitTextFillColor : 'transparent',  backgroundImage : 'linear-gradient(135.9deg, rgba(109, 25, 252, 1) 16.4%, rgba(125, 31, 165, 1) 56.1%)'",
+        "textColor": "linear-gradient(135.9deg, rgba(109, 25, 252, 1) 16.4%, rgba(125, 31, 165, 1) 56.1%)",
+        "borderColor": "rgba(109, 25, 252, 1)",
+        "copyColorCode": "#6d19fc, #7d1fa5"
+    },
+    {
+        "id": "07",
+        "color": "webkitBackgroundClip : 'text',  webkitTextFillColor : 'transparent',  backgroundImage : 'radial-gradient(circle 966px at 6.9% 10.8%, rgba(92, 123, 237, 1) 0%, rgba(147, 186, 252, 1) 90%)'",
+        "textColor": "radial-gradient(circle 966px at 6.9% 10.8%, rgba(92, 123, 237, 1) 0%, rgba(147, 186, 252, 1) 90%)",
+        "borderColor": "rgba(92, 123, 237, 1)",
+        "copyColorCode": "#5c7bed, #93bafc"
+    },
+    {
+        "id": "08",
+        "color": "webkitBackgroundClip : 'text',  webkitTextFillColor : 'transparent',  backgroundImage : 'linear-gradient(90deg, rgba(255, 157, 129, 1) 24.3%, rgba(255, 78, 78, 1) 78.3%)'",
+        "textColor": "linear-gradient(90deg, rgba(255, 157, 129, 1) 24.3%, rgba(255, 78, 78, 1) 78.3%)",
+        "borderColor": "rgba(255, 157, 129, 1)",
+        "copyColorCode": "#ff9d81, #ff4e4e"
+    },
+    {
+        "id": "09",
+        "color": "webkitBackgroundClip : 'text',  webkitTextFillColor : 'transparent',  backgroundImage : 'radial-gradient(circle farthest-corner at 22.4% 21.7%, rgba(4, 189, 228, 1) 0%, rgba(2, 83, 185, 1) 100.2%)'",
+        "textColor": "radial-gradient(circle farthest-corner at 22.4% 21.7%, rgba(4, 189, 228, 1) 0%, rgba(2, 83, 185, 1) 100.2%)",
+        "borderColor": "rgba(4, 189, 228, 1)",
+        "copyColorCode": "#04bde4, #0253b9"
+    },
+    {
+        "id": "10",
+        "color": "webkitBackgroundClip : 'text',  webkitTextFillColor : 'transparent',  backgroundImage : 'radial-gradient(circle 939px at 94.7% 50%, rgba(0, 178, 169, 1) 0%, rgba(0, 106, 101, 1) 76.9%)'",
+        "textColor": "radial-gradient(circle 939px at 94.7% 50%, rgba(0, 178, 169, 1) 0%, rgba(0, 106, 101, 1) 76.9%)",
+        "borderColor": "rgba(0, 178, 169, 1)",
+        "copyColorCode": "#00b2a9, #006a65"
+    },
+    {
+        "id": "11",
+        "color": "webkitBackgroundClip : 'text',  webkitTextFillColor : 'transparent',  backgroundImage : 'radial-gradient(circle farthest-corner at 14.2% 27.5%, rgba(104, 199, 255, 1) 0%, rgba(181, 126, 255, 1) 90%)'",
+        "textColor": "radial-gradient(circle farthest-corner at 14.2% 27.5%, rgba(104, 199, 255, 1) 0%, rgba(181, 126, 255, 1) 90%)",
+        "borderColor": "rgba(104, 199, 255, 1)",
+        "copyColorCode": "#68c7ff, #b57eff"
+    },
+    {
+        "id": "12",
+        "color": "webkitBackgroundClip : 'text',  webkitTextFillColor : 'transparent',  backgroundImage : 'linear-gradient(358.3deg, rgba(255, 82, 168, 1) 12.9%, rgba(177, 118, 240, 1) 134.3%)'",
+        "textColor": "linear-gradient(358.3deg, rgba(255, 82, 168, 1) 12.9%, rgba(177, 118, 240, 1) 134.3%)",
+        "borderColor": "rgba(255, 82, 168, 1)",
+        "copyColorCode": "#ff52a8, #b176f0"
+    },
+    {
+        "id": "13",
+        "color": "webkitBackgroundClip : 'text',  webkitTextFillColor : 'transparent',  backgroundImage : 'linear-gradient(109.8deg, rgba(62, 5, 116, 1) -5.2%, rgba(41, 14, 151, 1) -5.2%, rgba(216, 68, 148, 1) 103.3%)'",
+        "textColor": "linear-gradient(109.8deg, rgba(62, 5, 116, 1) -5.2%, rgba(41, 14, 151, 1) -5.2%, rgba(216, 68, 148, 1) 103.3%)",
+        "borderColor": "rgba(62, 5, 116, 1)",
+        "copyColorCode": "#3e0574, #290e97, #d84494"
+    },
+    {
+        "id": "14",
+        "color": "webkitBackgroundClip : 'text',  webkitTextFillColor : 'transparent',  backgroundImage : 'linear-gradient(78.1deg, rgba(177, 14, 236, 1) 5.5%, rgba(255, 19, 15, 1) 92.8%)'",
+        "textColor": "linear-gradient(78.1deg, rgba(177, 14, 236, 1) 5.5%, rgba(255, 19, 15, 1) 92.8%)",
+        "borderColor": "rgba(177, 14, 236, 1)",
+        "copyColorCode": "#b10eec, #ff130f"
+    },
+    {
+        "id": "15",
+        "color": "webkitBackgroundClip : 'text',  webkitTextFillColor : 'transparent',  backgroundImage : 'radial-gradient(circle farthest-corner at 10% 20%, rgba(111, 111, 219, 1) 0%, rgba(182, 109, 246, 1) 72.4%)'",
+        "textColor": "radial-gradient(circle farthest-corner at 10% 20%, rgba(111, 111, 219, 1) 0%, rgba(182, 109, 246, 1) 72.4%)",
+        "borderColor": "rgba(111, 111, 219, 1)",
+        "copyColorCode": "#6f6fdb, #b66df6"
+    },
+    {
+        "id": "16",
+        "color": "webkitBackgroundClip : 'text',  webkitTextFillColor : 'transparent',  backgroundImage : 'linear-gradient(109.6deg, rgba(101, 58, 150, 1) 29.9%, rgba(168, 141, 194, 1) 99.9%)'",
+        "textColor": "linear-gradient(109.6deg, rgba(101, 58, 150, 1) 29.9%, rgba(168, 141, 194, 1) 99.9%)",
+        "borderColor": "rgba(101, 58, 150, 1)",
+        "copyColorCode": "#653a96, #a88dc2"
+    },
+    {
+        "id": "17",
+        "color": "webkitBackgroundClip : 'text',  webkitTextFillColor : 'transparent',  backgroundImage : 'radial-gradient(circle 609.6px at 21.5% 78.8%, rgba(37, 99, 219, 1) 0%, rgba(233, 45, 181, 1) 89.9%)'",
+        "textColor": "radial-gradient(circle 609.6px at 21.5% 78.8%, rgba(37, 99, 219, 1) 0%, rgba(233, 45, 181, 1) 89.9%)",
+        "borderColor": "rgba(37, 99, 219, 1)",
+        "copyColorCode": "#2563db, #e92db5"
+    },
+    {
+        "id": "18",
+        "color": "webkitBackgroundClip : 'text',  webkitTextFillColor : 'transparent',  backgroundImage : 'linear-gradient(109.6deg, rgba(9, 9, 121, 1) 11.2%, rgba(144, 6, 161, 1) 53.7%, rgba(0, 212, 255, 1) 100.2%)'",
+        "textColor": "linear-gradient(109.6deg, rgba(9, 9, 121, 1) 11.2%, rgba(144, 6, 161, 1) 53.7%, rgba(0, 212, 255, 1) 100.2%)",
+        "borderColor": "rgba(144, 6, 161, 1)",
+        "copyColorCode": "#090979, #9006a1, #00d4ff"
+    },
+    {
+        "id": "19",
+        "color": "webkitBackgroundClip : 'text',  webkitTextFillColor : 'transparent',  backgroundImage : 'linear-gradient(179.2deg, rgba(34, 34, 34, 1) 0%, rgba(8, 0, 153, 1) 29.7%, rgba(118, 6, 166, 1) 63.4%, rgba(233, 0, 64, 0.58) 100.1%)'",
+        "textColor": "linear-gradient(170deg, rgba(34, 34, 34, 1) 0%, rgba(8, 0, 153, 1) 29.7%, rgba(118, 6, 166, 1) 63.4%, rgba(233, 10, 64, 1.58) 100%)",
+        "borderColor": "rgba(118, 6, 166, 1)",
+        "copyColorCode": "#222222, #080099, #7606a6, #e90a40"
+    },
+    {
+        "id": "20",
+        "color": "webkitBackgroundClip : 'text',  webkitTextFillColor : 'transparent',  backgroundImage : 'linear-gradient(109.6deg, rgba(33, 25, 180, 1) 11.2%, rgba(253, 29, 29, 1) 55.2%, rgba(252, 176, 69, 1) 91.1%)'",
+        "textColor": "linear-gradient(109.6deg, rgba(33, 25, 180, 1) 11.2%, rgba(253, 29, 29, 1) 55.2%, rgba(252, 176, 69, 1) 91.1%)",
+        "borderColor": "rgba(33, 25, 180, 1)",
+        "copyColorCode": "#2119b4, #fd1d1d, #fcb045"
+    },
+    {
+        "id": "21",
+        "color": "webkitBackgroundClip : 'text',  webkitTextFillColor : 'transparent',  backgroundImage : 'linear-gradient(138deg, rgba(32, 201, 255, 1) 36.7%, rgba(0, 8, 187, 1) 84.4%, rgba(255, 255, 255, 1) 119.7%)'",
+        "textColor": "linear-gradient(138deg, rgba(32, 201, 255, 1) 36.7%, rgba(0, 8, 187, 1) 84.4%, rgba(255, 255, 255, 1) 119.7%)",
+        "borderColor": "rgba(32, 201, 255, 1)",
+        "copyColorCode": "#20c9ff, #0008bb, #ffffff"
+    }
+]

@@ -1,0 +1,129 @@
+[
+    {
+        "id": "01",
+        "color": "linear-gradient(to right, rgb(17, 153, 142), rgb(56, 239, 125))",
+        "bgcolor": "rgb(17, 153, 142)",
+        "copyColor": "#11998e, #38ef7d"
+
+    },
+    {
+        "id": "02",
+        "color": "linear-gradient(to right, rgb(0, 4, 40), rgb(0, 78, 146))",
+        "bgcolor": "rgb(0, 4, 40)",
+        "copyColor": "#000428, #004e92"
+    },
+    {
+        "id": "03",
+        "color": "linear-gradient(to right, rgb(252, 70, 107), rgb(63, 94, 251))",
+        "bgcolor": "rgb(252, 70, 107)",
+        "copyColor": "#fc466b, rgb(63, 94, 251)"
+    },
+    {
+        "id": "04",
+        "color": "linear-gradient(to right, rgb(201, 75, 75), rgb(75, 19, 79))",
+        "bgcolor": "rgb(201, 75, 75)",
+        "copyColor": "#c94b4b, #4b134f"
+    },
+    {
+        "id": "05",
+        "color": "linear-gradient(to right, rgb(15, 12, 41), rgb(48, 43, 99), rgb(36, 36, 62))",
+        "bgcolor": "rgb(15, 12, 41)",
+        "copyColor": "#0f0c29, #302b63, #24243e"
+    },
+    {
+        "id": "06",
+        "color": "linear-gradient(to right, rgb(86, 171, 47), rgb(168, 224, 99))",
+        "bgcolor": "rgb(86, 171, 47)",
+        "copyColor": "#56ab2f, #a8e063"
+    },
+    {
+        "id": "07",
+        "color": "linear-gradient(to right, rgb(252, 74, 26), rgb(247, 183, 51))",
+        "bgcolor": "rgb(252, 74, 26)",
+        "copyColor": "#fc4a1a, #f7b733"
+    },
+    {
+        "id": "08",
+        "color": "linear-gradient(to right, rgb(69, 104, 220), rgb(176, 106, 179))",
+        "bgcolor": "rgb(69, 104, 220)",
+        "copyColor": "#4568dc, #b06ab3"
+    },
+    {
+        "id": "09",
+        "color": "linear-gradient(to right, rgb(106, 48, 147), rgb(160, 68, 255))",
+        "bgcolor": "rgb(106, 48, 147)",
+        "copyColor": "#6a3093, #a044ff"
+    },
+    {
+        "id": "10",
+        "color": "linear-gradient(to right, rgb(248, 80, 50), rgb(231, 56, 39))",
+        "bgcolor": "rgb(248, 80, 50)",
+        "copyColor": "#f85032, #e73827"
+    },
+    {
+        "id": "11",
+        "color": "linear-gradient(to right, rgb(255, 153, 102), rgb(255, 94, 98))",
+        "bgcolor": "rgb(255, 153, 102)",
+        "copyColor": "#ff9966, #ff5e62"
+    },
+    {
+        "id": "12",
+        "color": "linear-gradient(to right, rgb(127, 0, 255), rgb(225, 0, 255))",
+        "bgcolor": "rgb(127, 0, 255)",
+        "copyColor": "#7f00ff, #e100ff"
+    },
+    {
+        "id": "13",
+        "color": "linear-gradient(to right, rgb(57, 106, 252), rgb(41, 72, 255))",
+        "bgcolor": "rgb(57, 106, 252)",
+        "copyColor": "#396afc, #2948ff"
+    },
+    {
+        "id": "14",
+        "color": "linear-gradient(to right, rgb(6, 190, 182), rgb(72, 177, 191))",
+        "bgcolor": "rgb(6, 190, 182)",
+        "copyColor": "#06beb6, #48b1bf"
+    },
+    {
+        "id": "15",
+        "color": "linear-gradient(to right, rgb(100, 43, 115), rgb(198, 66, 110))",
+        "bgcolor": "rgb(100, 43, 115)",
+        "copyColor": "#642b73, #c6426e"
+    },
+    {
+        "id": "16",
+        "color": "linear-gradient(to right, rgb(54, 209, 220), rgb(91, 134, 229))",
+        "bgcolor": "rgb(54, 209, 220)",
+        "copyColor": "#36d1dc, #5b86e5"
+    },
+    {
+        "id": "17",
+        "color": "linear-gradient(to right, rgb(203, 53, 107), rgb(189, 63, 50))",
+        "bgcolor": "rgb(203, 53, 107)",
+        "copyColor": "#cb356b, #bd3f32"
+    },
+    {
+        "id": "18",
+        "color": "linear-gradient(to right, rgb(142, 45, 226), rgb(74, 0, 224))",
+        "bgcolor": "rgb(142, 45, 226)",
+        "copyColor": "#8e2de2, #4a00e0"
+    },
+    {
+        "id": "19",
+        "color": "linear-gradient(to right, rgb(195, 20, 50), rgb(36, 11, 54))",
+        "bgcolor": "rgb(195, 20, 50)",
+        "copyColor": "#c31432, #240b36"
+    },
+    {
+        "id": "20",
+        "color": "linear-gradient(to right, rgb(242, 153, 74), rgb(242, 201, 76))",
+        "bgcolor": "rgb(242, 153, 74)",
+        "copyColor": "#f2994a, #f2c94c"
+    },
+    {
+        "id": "21",
+        "color": "linear-gradient(to right, rgb(5, 117, 230), rgb(2, 27, 121))",
+        "bgcolor": "rgb(5, 117, 230)",
+        "copyColor": "#0575e6, #021b79"
+    }
+]

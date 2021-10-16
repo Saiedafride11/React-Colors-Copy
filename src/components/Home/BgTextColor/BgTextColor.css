@@ -1,0 +1,12 @@
+.bg-text-color-container{
+    background-color: #ff6347;
+    color: #fff;
+}
+.bg-text-color{
+    width: 100%;
+    border-radius: 15px;
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

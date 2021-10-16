@@ -1,0 +1,12 @@
+.gradient-bg-container{
+    background: linear-gradient(to right, rgb(57, 106, 252), rgb(41, 72, 255));
+    color: #fff;
+}
+.gradient-bg-color{
+    width: 100%;
+    border-radius: 15px;
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

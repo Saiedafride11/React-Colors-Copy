@@ -1,0 +1,12 @@
+.gradient-text-container{
+    background: linear-gradient(to right, rgb(142, 45, 226), rgb(74, 0, 224));
+    color: #fff;
+}
+.gradient-text-color{
+    width: 100%;
+    border-radius: 15px;
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
