@@ -17,6 +17,7 @@ const TextColorSummery = (props) => {
             backgroundColor: `${color}`,
             // opacity: 1,
             display: 'flex',
+            transtion: '10s',
             zIndex: 5,
         })
 
