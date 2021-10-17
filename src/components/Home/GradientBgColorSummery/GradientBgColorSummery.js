@@ -1,7 +1,10 @@
 import React, { useRef, useState } from 'react';
 import './GradientBgColorSummery.css';
+import useSound from 'use-sound';
+import sound from '../../../sound/02.wav';
 
 const GradientBgColorSummery = (props) => {
+    const [setPlay] = useSound(sound);
     const {color, copyColor, bgcolor} = props.gradientsBgColor;
     const [copySuccess, setCopySuccess] = useState('');
     const [colors, setColor] = useState({});
@@ -19,7 +22,7 @@ const GradientBgColorSummery = (props) => {
             display: 'flex',
             zIndex: 5,
         })
-
+        setPlay();
         setTimeout(() => {
             setCopySuccess('Hello');
             setColor({

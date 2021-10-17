@@ -1,7 +1,10 @@
 import React, { useRef, useState } from 'react';
 import './TextColorSummery.css';
+import useSound from 'use-sound';
+import sound from '../../../sound/03.wav';
 
 const TextColorSummery = (props) => {
+    const [setPlay] = useSound(sound);
     const {color} = props.textColor;
     const [copySuccess, setCopySuccess] = useState('');
     const [colors, setColor] = useState({});
@@ -20,7 +23,7 @@ const TextColorSummery = (props) => {
             transtion: '10s',
             zIndex: 5,
         })
-
+        setPlay();
         setTimeout(() => {
             setCopySuccess('Aa');
             setColor({

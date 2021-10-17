@@ -1,7 +1,10 @@
 import React, { useRef, useState } from 'react';
 import './BgTextColorSummery.css';
+import useSound from 'use-sound';
+import sound from '../../../sound/02.wav';
 
 const BgTextColorSummery = (props) => {
+    const [setPlay] = useSound(sound);
     const {color} = props.bgTextColor;
     const [copySuccess, setCopySuccess] = useState('');
     const [colors, setColor] = useState({});
@@ -19,7 +22,7 @@ const BgTextColorSummery = (props) => {
             display: 'flex',
             zIndex: 5,
         })
-
+        setPlay();
         setTimeout(() => {
             setCopySuccess('Aa');
             setColor({
