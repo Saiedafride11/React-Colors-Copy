@@ -36,7 +36,7 @@ const TextColorSummery = (props) => {
                 document.queryCommandSupported('copy') &&
                 <>
                     <button onClick={copyToClipboard} className="color-btn">
-                        <input type="text" ref={textAreaRef} defaultValue={color} readOnly style={{transform:"scale(0)"}}/>
+                        <input type="text" ref={textAreaRef} defaultValue={color} readOnly style={{transform:"scale(0)", width: '100%'}}/>
                         <p style={{color: `${color}`, marginBottom: '0px'}}>{!copySuccess ? "Aa" : copySuccess}</p> 
                     </button>
                     <div className="success-copied" style={colors}>

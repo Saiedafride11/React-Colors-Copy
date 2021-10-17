@@ -38,7 +38,7 @@ const GradientTextColorSummery = (props) => {
             document.queryCommandSupported('copy') &&
             <>
                 <button onClick={copyToClipboard} className="gradient-text-color-btn" style={{background: ``}}>
-                    <input type="text" ref={textAreaRef} defaultValue={copyColorCode} readOnly style={{transform:"scale(0)"}}/>
+                    <input type="text" ref={textAreaRef} defaultValue={copyColorCode} readOnly style={{transform:"scale(0)", width: '100%'}}/>
                     <p style={{WebkitBackgroundClip : 'text',  WebkitTextFillColor : 'transparent',  backgroundImage : `${textColor}`}}>{!copySuccess ? "Hello!" : copySuccess}</p> 
                 </button>
                 <div className="success-copied" style={colors}>

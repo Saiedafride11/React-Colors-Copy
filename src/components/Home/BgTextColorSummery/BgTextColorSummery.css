@@ -1,5 +1,5 @@
 .bg-color-inner{
-    /* width: 100px; */
+    width: 100px;
     margin: 10px;
     border-radius: 5px;
     flex-flow: row;
@@ -57,7 +57,7 @@
  
  @media only screen and (min-width: 320px) and (max-width:445px) {
     .bg-color-inner{
-        /* width: 70px; */
+        width: 70px;
     }
     .bg-color-btn{
         padding: 8px;
@@ -67,5 +67,15 @@
      }
      .success-copied h1{
         font-size: 20px;
+    }
+}
+@media only screen and (min-width: 768px) and (max-width:991px) {
+    .bg-color-inner{
+        width: 130px;
+    }
+}
+ @media only screen and (min-width: 992px) and (max-width:1200px) {
+    .bg-color-inner{
+        width: 170px;
     }
 }
