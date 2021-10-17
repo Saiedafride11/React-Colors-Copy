@@ -1,0 +1,47 @@
+.developer-summary .card{
+    border: none;
+}
+.developer-btn{
+   width: 100%;
+   padding: 5px 0px;
+   border: none;
+   text-align: center;
+   /* background-color: #fff; */
+   color: #fff;
+   border-radius:3px;
+   margin-bottom:15px;
+   position: relative;
+}
+.developer-btn p {
+    position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.success-copied{
+    /* background-color: #ffffff; */
+    color: #ffffff;
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    display: -ms-flexbox;
+    -ms-flex-align: center;
+    -ms-flex-pack: center;
+    align-items: center;
+    justify-content: center;
+    transition: all 1s ease;
+    -webkit-transition: all 1s ease;
+    z-index: -5;
+    opacity: 0;
+}
+/* .developer-btn:hover .success-copied{
+    opacity: 1;
+    z-index: 5;
+} */
+
+input::selection { background: transparent; }
+input::-moz-selection { background: transparent; }
+input{ border: none; outline: none; background: transparent; }

@@ -6,9 +6,10 @@
     justify-content: center;
     color: #fff;
     padding: 2px;
-    box-shadow: 0px 10px 20px 0px #07070723;
+    /* box-shadow: 0px 10px 20px 0px #07070723; */
 }
 .gradient-text-color-inner:hover {
+  box-shadow: 0px 10px 20px 0px #07070723;
   border: 1px solid transparent;
   transition: 0.3s;
   cursor: pointer;
