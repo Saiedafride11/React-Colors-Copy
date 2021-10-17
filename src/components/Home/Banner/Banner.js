@@ -11,7 +11,6 @@ const Banner = () => {
     const handleShow = () => setShow(true);
     return (
         <div className="banner" id="home">
-            <br />
             <div className="container">
                 <h1 className="fs-1 mt-5">Welcome to <span className="main-color fw-bolder">Colors Copy.</span></h1>
                 <p className="banner-description"><span className="main-color fw-bolder">Colors Copy.</span> is built to simplify the web designer's works for building creative & eye-catching <br/> UI designs using amazing colors and gradients.</p>
@@ -50,7 +49,7 @@ const Banner = () => {
                         <img src="https://i.ibb.co/cLFHb4H/paste.gif" className="w-100" alt="" />
                     </Modal.Body>
                     <Modal.Footer>
-                    <Button className="btn btn-primary" onClick={handleClose}>
+                    <Button className="btn btn-primary w-75 mx-auto" onClick={handleClose}>
                         Got it
                     </Button>
                     </Modal.Footer>
