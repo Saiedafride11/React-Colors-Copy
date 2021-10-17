@@ -38,16 +38,16 @@ const Banner = () => {
                         <strong>Step 1: </strong> Simply click on your favourite color tab.
                         <br/>
                         <br/>
-                        <img src="https://i.ibb.co/vLsV3yK/hello.gif" style={{width: '95%'}} alt="" />
+                        <img src="https://i.ibb.co/vLsV3yK/hello.gif" className="w-100" alt="" />
                         <br/>
                         <br/>
                         <strong>Step 2: </strong> The color code with the css property will be copied on your clipboard automatically.
                         <br/>
-                        <img src="https://i.ibb.co/Bw42m6V/copied.gif" style={{width: '95%'}} alt="" />
+                        <img src="https://i.ibb.co/Bw42m6V/copied.gif" className="w-100" alt="" />
                         <br/>
                         <strong>Step 3: </strong> Paste it anywhere & Enjoy!<br/>
                         <br/>
-                        <img src="https://i.ibb.co/cLFHb4H/paste.gif" style={{width: '95%'}} alt="" />
+                        <img src="https://i.ibb.co/cLFHb4H/paste.gif" className="w-100" alt="" />
                     </Modal.Body>
                     <Modal.Footer>
                     <Button className="btn btn-primary" onClick={handleClose}>
