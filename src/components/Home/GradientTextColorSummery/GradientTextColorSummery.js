@@ -1,7 +1,7 @@
 import React, { useRef, useState } from 'react';
 import './GradientTextColorSummery.css';
 import useSound from 'use-sound';
-import sound from '../../../sound/03.wav';
+import sound from '../../../sound/02.wav';
 
 
 const GradientTextColorSummery = (props) => {

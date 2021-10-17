@@ -1,7 +1,7 @@
 import React, { useRef, useState } from 'react';
 import './GradientBgColorSummery.css';
 import useSound from 'use-sound';
-import sound from '../../../sound/02.wav';
+import sound from '../../../sound/03.wav';
 
 const GradientBgColorSummery = (props) => {
     const [setPlay] = useSound(sound);
