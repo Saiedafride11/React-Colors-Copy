@@ -1,7 +1,7 @@
 import React, { useRef, useState } from 'react';
 import './BgTextColorSummery.css';
 import useSound from 'use-sound';
-import sound from '../../../sound/02.wav';
+import sound from '../../../sound/03.wav';
 
 const BgTextColorSummery = (props) => {
     const [setPlay] = useSound(sound);
@@ -11,6 +11,7 @@ const BgTextColorSummery = (props) => {
     const textAreaRef = useRef(null);
 
     const copyToClipboard = (e) => {
+        setPlay();
         textAreaRef.current.select();
         document.execCommand('copy');
         e.target.focus();
@@ -22,7 +23,7 @@ const BgTextColorSummery = (props) => {
             display: 'flex',
             zIndex: 5,
         })
-        setPlay();
+        
         setTimeout(() => {
             setCopySuccess('Aa');
             setColor({

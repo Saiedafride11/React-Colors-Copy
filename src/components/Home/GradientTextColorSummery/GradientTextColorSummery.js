@@ -1,7 +1,7 @@
 import React, { useRef, useState } from 'react';
 import './GradientTextColorSummery.css';
 import useSound from 'use-sound';
-import sound from '../../../sound/02.wav';
+import sound from '../../../sound/03.wav';
 
 
 const GradientTextColorSummery = (props) => {
@@ -13,6 +13,7 @@ const GradientTextColorSummery = (props) => {
     const textAreaRef = useRef(null);
 
     const copyToClipboard = (e) => {
+        setPlay();
         textAreaRef.current.select();
         document.execCommand('copy');
         e.target.focus();
@@ -24,7 +25,7 @@ const GradientTextColorSummery = (props) => {
             display: 'flex',
             zIndex: 5,
         })
-        setPlay();
+        
         setTimeout(() => {
             setCopySuccess('Hello!');
             setColor({

@@ -8,7 +8,7 @@ const Header = () => {
         <>
             <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" sticky="top">
                 <Container>
-                <Navbar.Brand href="#home">Colors Copy</Navbar.Brand>
+                <Navbar.Brand href="#home">SoftCopy</Navbar.Brand>
                 <Navbar.Toggle />
                 <Navbar.Collapse className="justify-content-end">
                 <Nav.Link as={HashLink} to="/home#home">Home</Nav.Link>
