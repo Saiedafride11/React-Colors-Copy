@@ -11,7 +11,6 @@ const BgTextColorSummery = (props) => {
     const textAreaRef = useRef(null);
 
     const copyToClipboard = (e) => {
-        setPlay();
         textAreaRef.current.select();
         document.execCommand('copy');
         e.target.focus();
@@ -23,7 +22,7 @@ const BgTextColorSummery = (props) => {
             display: 'flex',
             zIndex: 5,
         })
-        
+        setPlay();
         setTimeout(() => {
             setCopySuccess('Aa');
             setColor({

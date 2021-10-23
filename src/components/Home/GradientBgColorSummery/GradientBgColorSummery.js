@@ -11,7 +11,6 @@ const GradientBgColorSummery = (props) => {
     const textAreaRef = useRef(null);
 
     const copyToClipboard = (e) => {
-        setPlay();
         textAreaRef.current.select();
         document.execCommand('copy');
         e.target.focus();
@@ -23,7 +22,7 @@ const GradientBgColorSummery = (props) => {
             display: 'flex',
             zIndex: 5,
         })
-        
+        setPlay();
         setTimeout(() => {
             setCopySuccess('Hello');
             setColor({

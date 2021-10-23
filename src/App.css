@@ -34,16 +34,9 @@ p{
     outline: none !important;
 }
 
-.startLoader{
-    width: 100%;
-    height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-.content{
-    display: none;
-}
+
+
+/* // npm install use-sound */
 
 /* https://www.npmjs.com/package/react-loader-spinner */
 /* $ npm install react-loader-spinner --save
